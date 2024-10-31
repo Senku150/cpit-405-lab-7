@@ -1,0 +1,19 @@
+#searchBar{
+    background-color: rgb(232, 223, 216);
+    box-shadow: 0.06em 0.06em 0.06em 0.06em;
+    padding-bottom: 1.3em;
+}
+#searchBar h1 {
+    padding-left: 0.3em;
+}
+body{
+    background-color: antiquewhite;
+}
+#result{
+    padding-top: 0.1em;
+    border: 1em rgb(232, 223, 216) solid;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
